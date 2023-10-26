@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Name - Portfolio</title>
+    <title>Your Name - Prathibraj.V</title>
     <style>
         body {
             font-family: Arial, sans-serif;
