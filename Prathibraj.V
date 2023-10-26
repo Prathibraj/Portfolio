@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Name - Prathibraj.V</title>
+    <title>Your Name - Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -96,7 +96,7 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="./mypic.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>VIGNESH M</h1>
+            <h1>PRATHIBRAJ.V</h1>
             <p>Mastertrainer Edunet Foundation</p>
         </div>
     </header>
